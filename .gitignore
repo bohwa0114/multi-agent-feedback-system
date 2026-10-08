@@ -1,0 +1,28 @@
+# 환경변수 (API 키)
+.env
+
+# AI Hub 데이터 (재배포 불가)
+26.논술형_글쓰기_평가_데이터/
+
+# 생성된 대용량 학습 데이터 (배포 전 로컬에서 생성)
+mafs/data/feedback_db.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code 설정
+.claude/
+mafs/evaluate/results/
+
+# 인간 평정 자료 (평정자 실명 포함, 재배포 불가)
+LLM 평가자 검증/
+

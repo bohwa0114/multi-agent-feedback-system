@@ -1,0 +1,9 @@
+google-adk>=1.0.0
+requests
+python-dotenv
+fastapi
+uvicorn[standard]
+scipy
+numpy
+openai
+pingouin

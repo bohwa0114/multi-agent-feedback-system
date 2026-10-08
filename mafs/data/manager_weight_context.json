@@ -1,0 +1,229 @@
+{
+  "n_records": 16010,
+  "overall": {
+    "task": 0.1389,
+    "content": 0.3949,
+    "organization": 0.2407,
+    "expression": 0.2256
+  },
+  "by_purpose": {
+    "설명": {
+      "task": 0.1417,
+      "content": 0.3946,
+      "organization": 0.2413,
+      "expression": 0.2224
+    },
+    "친교 및 정서": {
+      "task": 0.1378,
+      "content": 0.3931,
+      "organization": 0.2406,
+      "expression": 0.2285
+    },
+    "설득": {
+      "task": 0.1363,
+      "content": 0.3965,
+      "organization": 0.24,
+      "expression": 0.2273
+    }
+  },
+  "by_purpose_weak_domain": {
+    "설명": {
+      "task": {
+        "weak": {
+          "task": 0.1449,
+          "content": 0.3917,
+          "organization": 0.2418,
+          "expression": 0.2216
+        },
+        "strong": {
+          "task": 0.1401,
+          "content": 0.3961,
+          "organization": 0.241,
+          "expression": 0.2228
+        },
+        "n_weak": 2264,
+        "n_strong": 4391
+      },
+      "content": {
+        "weak": {
+          "task": 0.1439,
+          "content": 0.3934,
+          "organization": 0.2415,
+          "expression": 0.2212
+        },
+        "strong": {
+          "task": 0.1405,
+          "content": 0.3953,
+          "organization": 0.2412,
+          "expression": 0.2231
+        },
+        "n_weak": 2374,
+        "n_strong": 4281
+      },
+      "organization": {
+        "weak": {
+          "task": 0.144,
+          "content": 0.3922,
+          "organization": 0.2421,
+          "expression": 0.2218
+        },
+        "strong": {
+          "task": 0.1404,
+          "content": 0.396,
+          "organization": 0.2408,
+          "expression": 0.2228
+        },
+        "n_weak": 2437,
+        "n_strong": 4218
+      },
+      "expression": {
+        "weak": {
+          "task": 0.1427,
+          "content": 0.3897,
+          "organization": 0.2388,
+          "expression": 0.2289
+        },
+        "strong": {
+          "task": 0.1415,
+          "content": 0.3959,
+          "organization": 0.2419,
+          "expression": 0.2207
+        },
+        "n_weak": 1359,
+        "n_strong": 5296
+      }
+    },
+    "친교 및 정서": {
+      "task": {
+        "weak": {
+          "task": 0.1388,
+          "content": 0.3905,
+          "organization": 0.2411,
+          "expression": 0.2296
+        },
+        "strong": {
+          "task": 0.1376,
+          "content": 0.3939,
+          "organization": 0.2404,
+          "expression": 0.2282
+        },
+        "n_weak": 913,
+        "n_strong": 2944
+      },
+      "content": {
+        "weak": {
+          "task": 0.1387,
+          "content": 0.391,
+          "organization": 0.2421,
+          "expression": 0.2283
+        },
+        "strong": {
+          "task": 0.1375,
+          "content": 0.3939,
+          "organization": 0.2399,
+          "expression": 0.2286
+        },
+        "n_weak": 1130,
+        "n_strong": 2727
+      },
+      "organization": {
+        "weak": {
+          "task": 0.1378,
+          "content": 0.3896,
+          "organization": 0.2425,
+          "expression": 0.2302
+        },
+        "strong": {
+          "task": 0.1379,
+          "content": 0.3943,
+          "organization": 0.2399,
+          "expression": 0.2279
+        },
+        "n_weak": 1011,
+        "n_strong": 2846
+      },
+      "expression": {
+        "weak": {
+          "task": 0.1361,
+          "content": 0.3874,
+          "organization": 0.2398,
+          "expression": 0.2367
+        },
+        "strong": {
+          "task": 0.1382,
+          "content": 0.3943,
+          "organization": 0.2407,
+          "expression": 0.2268
+        },
+        "n_weak": 675,
+        "n_strong": 3182
+      }
+    },
+    "설득": {
+      "task": {
+        "weak": {
+          "task": 0.1375,
+          "content": 0.3959,
+          "organization": 0.2399,
+          "expression": 0.2268
+        },
+        "strong": {
+          "task": 0.1357,
+          "content": 0.3968,
+          "organization": 0.24,
+          "expression": 0.2275
+        },
+        "n_weak": 1806,
+        "n_strong": 3692
+      },
+      "content": {
+        "weak": {
+          "task": 0.1372,
+          "content": 0.3963,
+          "organization": 0.2396,
+          "expression": 0.2269
+        },
+        "strong": {
+          "task": 0.1357,
+          "content": 0.3966,
+          "organization": 0.2402,
+          "expression": 0.2275
+        },
+        "n_weak": 2083,
+        "n_strong": 3415
+      },
+      "organization": {
+        "weak": {
+          "task": 0.1375,
+          "content": 0.395,
+          "organization": 0.2397,
+          "expression": 0.2278
+        },
+        "strong": {
+          "task": 0.1357,
+          "content": 0.3972,
+          "organization": 0.2401,
+          "expression": 0.227
+        },
+        "n_weak": 1838,
+        "n_strong": 3660
+      },
+      "expression": {
+        "weak": {
+          "task": 0.135,
+          "content": 0.3944,
+          "organization": 0.2378,
+          "expression": 0.2328
+        },
+        "strong": {
+          "task": 0.1366,
+          "content": 0.397,
+          "organization": 0.2405,
+          "expression": 0.2259
+        },
+        "n_weak": 1094,
+        "n_strong": 4404
+      }
+    }
+  }
+}
