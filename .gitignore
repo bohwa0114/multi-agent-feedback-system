@@ -26,3 +26,6 @@ mafs/evaluate/results/
 # 인간 평정 자료 (평정자 실명 포함, 재배포 불가)
 LLM 평가자 검증/
 
+
+# Claude Code 작업 메모 (로컬 전용)
+CLAUDE.md
